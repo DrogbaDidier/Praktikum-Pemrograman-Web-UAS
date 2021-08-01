@@ -1,10 +1,10 @@
 # Praktikum-Pemrograman-Web-UAS
 
 PROJECT UAS WEB PEMILIHAN KEPALA DESA
-HAK CIPTA MILIK: 
-APLIKASI = YT Channel "Bayu Tutor"
-DATABASE ASLI (db_pilkades_upd.sql) = Instagram "kang.bege"
-DATABASE EDITED (db_pilkades.sql) = kevinnaufalf
+- HAK CIPTA MILIK: 
+- APLIKASI = YT Channel "Bayu Tutor"
+- DATABASE ASLI (db_pilkades_upd.sql) = Instagram "kang.bege"
+- DATABASE EDITED (db_pilkades.sql) = kevinnaufalf
 
 CARA PAKAI APLIKASI:
 - Download file project pada link Gdrive diatas
